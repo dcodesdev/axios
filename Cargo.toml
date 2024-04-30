@@ -1,0 +1,8 @@
+[package]
+name = "axios"
+version = "0.1.0"
+edition = "2021"
+description = "A simple HTTP client for Rust"
+license = "MIT"
+
+[dependencies]
